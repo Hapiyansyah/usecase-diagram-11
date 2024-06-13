@@ -8,4 +8,4 @@ Kelas : TI.22.A2
 
 ## Usecase
 
-Usecase.jpg
+https://github.com/Hapiyansyah/usecase-diagram-11/blob/da384ac71ef7558722a1750070bb77ef1a94c53f/Usecase.jpg
