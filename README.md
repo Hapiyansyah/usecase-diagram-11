@@ -8,4 +8,4 @@ Kelas : TI.22.A2
 
 ## Usecase
 
-[Usecase](Usecase.jpg)
+![Usecase](Usecase.jpg)
